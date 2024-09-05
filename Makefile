@@ -5,7 +5,7 @@ CC = gcc
 CFLAGS = -Wall -g
 
 # Target executable
-TARGET = GeneticRandom
+TARGET = GeneticRandomBoolean
 
 # Source file(s)
 SRC = main.c
